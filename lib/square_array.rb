@@ -5,5 +5,5 @@ def square_array(my_array)
   #   newArray << my_array[counter] **
   #   counter ++
   # end
-  return my_Array
+  return my_array
 end
