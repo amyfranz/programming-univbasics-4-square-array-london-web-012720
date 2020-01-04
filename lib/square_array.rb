@@ -1,7 +1,7 @@
 def square_array(my_array)
   newArray = []
   counter = 0
-  while counter < my_array.length do
+  while counter < 5 do
   #   newArray << my_array[counter] **
     counter ++
   end
